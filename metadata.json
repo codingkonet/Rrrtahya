@@ -1,0 +1,5 @@
+{
+  "name": "Hello World App",
+  "description": "A simple and elegant 'Hello World' application built with Angular and Tailwind CSS, designed to run in a Vercel-like environment.",
+  "requestFramePermissions": []
+}
